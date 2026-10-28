@@ -1,0 +1,11 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "date": "2026-10-28",
+      "edition": "both",
+      "title": "Transcription starts more reliably",
+      "body": "When servers are busy, a job that can't start now tells you instead of waiting forever."
+    }
+  ]
+}
